@@ -13,5 +13,7 @@ public class Test {
           System.out.println("88");
         System.out.println("9999");
         System.out.println("9999");
+        System.out.println("2222");
+        System.out.println("3333");
     }
 }
