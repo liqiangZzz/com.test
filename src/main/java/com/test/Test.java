@@ -12,5 +12,7 @@ public class Test {
         System.out.println("88888");
           System.out.println("88");
            System.out.println("78");
+           System.out.println("*8");
+
     }
 }
